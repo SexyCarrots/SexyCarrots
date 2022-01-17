@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I can eat a whole 9-inch pizza one time.
 
 [![Xinghan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SexyCarrots)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://github.com/SexyCarrots/Copy/github-stats/blob/master/generated/overview.svg)
+
 ![](https://github.com/SexyCarrots/Copy/github-stats/blob/master/generated/languages.svg)
 
