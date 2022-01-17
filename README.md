@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Xinghan 👋
+## Current senior studying at Shenzhen Middle School.
 
 <!--
 **SexyCarrots/SexyCarrots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
