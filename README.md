@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 [![Xinghan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SexyCarrots)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github.com/SexyCarrots/Copy/github-stats/blob/master/generated/overview.svg)
+[![](https://github.com/SexyCarrots/Copy/blob/master/generated/languages.svg)]
 
-![](https://github.com/SexyCarrots/Copy/github-stats/blob/master/generated/languages.svg)
+[![](https://github.com/SexyCarrots/Copy/github-stats/blob/master/generated/languages.svg)]
 
