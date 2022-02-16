@@ -2,7 +2,6 @@
 ### Current senior studying at Shenzhen Middle School.
 ### 2022 Goal: Learn more, contribute more, and communicate more.
 
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Tensorcircuit, an open source platform for Quantum Computing
