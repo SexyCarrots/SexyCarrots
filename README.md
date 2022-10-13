@@ -1,5 +1,5 @@
 ### Hi there, I'm Xinghan 👋
-### Current senior studying at Shenzhen Middle School.
+### Shenzhen Middle School.
 ### 2022 Goal: Learn more, contribute more, and communicate more.
 
 Here are some ideas to get you started:
