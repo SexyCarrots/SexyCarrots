@@ -1,6 +1,7 @@
 ### Hi there, I'm Xinghan 👋
-### Shenzhen Middle School.
-### 2022 Goal: Learn more, contribute more, and communicate more.
+### University of California, Santa Barbara
+### Shenzhen Middle School 深圳中学
+### 2023 Goal: Learn more, contribute more, and communicate more.
 
 Here are some ideas to get you started:
 
