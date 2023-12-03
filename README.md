@@ -1,8 +1,7 @@
 ### Hi there, I'm Xinghan 👋
 ### University of California, Santa Barbara
-### Shenzhen Middle School 深圳中学
 ### 2023 Goal: Learn more, contribute more, and communicate more.
-
+I helped develop TensorCircuit https://github.com/tencent-quantum-lab/tensorcircuit
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Tensorcircuit, an open source platform for Quantum Computing
