@@ -1,14 +1,7 @@
 ### Hi there, I'm Xinghan 👋
-### University of California, Santa Barbara
-### 2023 Goal: Learn more, contribute more, and communicate more.
-I helped develop TensorCircuit https://github.com/tencent-quantum-lab/tensorcircuit
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Tensorcircuit, an open source platform for Quantum Computing
-- 🌱 I’m currently learning ML & Quantum Computing
-- 👯 I’m looking to collaborate on more open source projects
-- 📫 How to reach me: yang-xinghan@outlook.com
-- ⚡ Fun fact: I can eat a whole 9-inch pizza one time.
+### [My LinkedIn](https://www.linkedin.com/in/xinghan-yang/) and [Google Scholar](https://scholar.google.com/citations?user=MxyqhZUAAAAJ&hl=en)  
+### First-year Computer Science Master's student at the University of California, Santa Barbara
+### Bachelor of Science in Computer Science (2022-2025) at the University of California, Santa Barbara
 
 [![Xinghan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SexyCarrots)](https://github.com/anuraghazra/github-readme-stats)
 
